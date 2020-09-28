@@ -1,0 +1,17 @@
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.exe
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfo.cs
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.CopyComplete
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.deps.json
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.json
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.dev.json
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Users\Ertugrul\source\repos\NetCore_RabbitMQ\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.genruntimeconfig.cache

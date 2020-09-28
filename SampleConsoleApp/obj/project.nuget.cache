@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yCyJ5mVmzm5SUiLXkfWUgj+wO++v8VBPgxksu6KzOTnrAM3nEh4nznmWIkuyWi3luidBGZJ800W7x6BVN80Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ertugrul\\source\\repos\\NetCore_RabbitMQ\\SampleConsoleApp\\SampleConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
